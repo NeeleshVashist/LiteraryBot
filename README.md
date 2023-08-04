@@ -1,7 +1,7 @@
 # LiteraryBot
 
 ![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue)
-![License](https://img.shields.io/github/license/NeeleshVashist/LiteraryBot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 LiteraryBot is a fun and interactive Generative AI Language Model project that brings literary text generation to life. Leveraging the power of LSTM (Long Short-Term Memory) neural networks, GPT-2 Medium Model and the rich text corpus from Project Gutenberg, LiteraryBot can generate coherent and contextually relevant text based on a given prompt.
 
