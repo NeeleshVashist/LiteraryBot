@@ -16,6 +16,12 @@ This project is part of the "Software Tools and Emerging Technologies for AI and
 - Mukul Bisht - C0857928
 - Saurabh Singh - C0859334
 
+## Project Report and Trello Board Link
+
+Trello Board Link: [AML 3304 - Project | Trello](https://trello.com/b/QQKHYFCI/aml-3304-project)
+
+Latex Document Link: [AML 3304 - Project - Online LaTeX Editor Overleaf](https://www.overleaf.com/project/64c6ed18b362775457f1246c)
+
 ## Project Introduction
 
 In this project, we have created a generative chatbot using LSTM (Long Short-Term Memory) neural networks, GPT-2 Medium Model and leveraged the rich text corpus from Gutenberg Books. The goal of this project is to develop a language model that can generate coherent and contextually relevant text based on a given prompt. We aim to explore the capabilities of both an LSTM-based model and a pre-trained GPT-2 (Generative Pre-trained Transformer 2) model.
@@ -96,6 +102,9 @@ Throughout the project, the team learned the importance of data preprocessing an
 ## Future Enhancements
 
 To improve the language model's performance, future enhancements could involve exploring larger datasets, experimenting with different model architectures, and fine-tuning GPT-2 on domain-specific corpora.
+
+## Acknowledgment
+We would like to extend our heartfelt gratitude to Professor Peter Sigurdson for his invaluable guidance and teachings throughout the duration of this course. His insightful instruction has been a constant source of motivation, significantly enriching the quality of our work.
 
 ## References
 
